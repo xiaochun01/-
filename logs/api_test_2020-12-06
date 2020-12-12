@@ -1,0 +1,85 @@
+2020-12-06 09:07:10 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:10" - <module> - INFO - 蓝色
+2020-12-06 09:07:10 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:38" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 09:07:10 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:16" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 14:24:00 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:10" - <module> - INFO - 蓝色
+2020-12-06 14:24:00 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:38" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 14:24:00 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:16" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 14:24:22 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:10" - <module> - INFO - 蓝色
+2020-12-06 14:24:22 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:38" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 14:24:22 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:16" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 21:18:52 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:41" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:18:52 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:19" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 21:19:20 - p3p4_api_test - "run_all_case.py:42" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:19:20 - p3p4_api_test - "run_all_case.py:20" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 21:22:00 - p3p4_api_test - "run_all_case.py:42" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:22:00 - p3p4_api_test - "run_all_case.py:20" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 21:39:20 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:42" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:39:20 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:20" - load_testcase - INFO - 加载接口测试用例
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:30" - test_api_case - INFO - 测试用例编号：api_case_01开始执行
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 获取access_token接口开始调用
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:30" - test_api_case - INFO - 测试用例编号：api_case_02开始执行
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 获取access_token接口开始调用
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key_value进行断言，检查是否满足期望结果：{"expires_in":7200}
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:95" - __key_value_check - INFO - 测试实际结果：{'access_token': '39_6iWzDe3mWWI3432aY3cvJJM8KKQ9y5NRgC2pI7DjLkOp2zR71sUk2p65FA_b71kx9XvpzFX1jplOjZH13CXX3q-VrXvmjeGsCO9QIgmr1wo0KxHDPnki7GgqcVqlLnHiVHBgiz4oBoc12JkzMATiAIAYMF', 'expires_in': 7200}==测试期望结果:{"expires_in":7200}，检测通过
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 获取access_token接口 调用结束
+2020-12-06 21:39:20 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 创建标签接口开始调用
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key进行断言，检查是否满足期望结果：tag
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:63" - __key_check - INFO - 测试实际结果：{"errcode": 45157, "errmsg": "invalid tag name hint: [skCFnh4FE-qZsPhA] rid: 5fccde80-52326fb2-5299d159"}==测试期望结果：tag，不一致，检测失败
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 创建标签接口 调用结束
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:34" - test_api_case - INFO - 测试用例编号：api_case_02执行结束
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:30" - test_api_case - INFO - 测试用例编号：api_case_03开始执行
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 获取access_token接口开始调用
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key进行断言，检查是否满足期望结果：access_token
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:67" - __key_check - INFO - 测试实际结果：{"access_token": "39_6iWzDe3mWWI3432aY3cvJJM8KKQ9y5NRgC2pI7DjLkOp2zR71sUk2p65FA_b71kx9XvpzFX1jplOjZH13CXX3q-VrXvmjeGsCO9QIgmr1wo0KxHDPnki7GgqcVqlLnHiVHBgiz4oBoc12JkzPTPiAIAFJF", "expires_in": 7200}==测试期望结果：access_token，检测通过
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 获取access_token接口 调用结束
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 创建标签接口开始调用
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据none进行断言，检查是否满足期望结果：
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:49" - none_check - INFO - 断言类型为无或期望结果无数据，检测通过
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 创建标签接口 调用结束
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 删除标签接口开始调用
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key_value进行断言，检查是否满足期望结果：{"errcode":0}
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:95" - __key_value_check - INFO - 测试实际结果：{'errcode': 0, 'errmsg': 'ok'}==测试期望结果:{"errcode":0}，检测通过
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 删除标签接口 调用结束
+2020-12-06 21:39:21 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:34" - test_api_case - INFO - 测试用例编号：api_case_03执行结束
+
+2020-12-06 21:52:59 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:42" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:52:59 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:20" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 21:53:53 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:42" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:53:53 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:20" - load_testcase - INFO - 加载接口测试用例
+
+2020-12-06 21:57:40 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:42" - <module> - INFO - 接口自动化测试开始执行
+2020-12-06 21:57:40 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:20" - load_testcase - INFO - 加载接口测试用例
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:30" - test_api_case - INFO - 测试用例编号：api_case_01开始执行
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 获取access_token接口开始调用
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:30" - test_api_case - INFO - 测试用例编号：api_case_02开始执行
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 获取access_token接口开始调用
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key_value进行断言，检查是否满足期望结果：{"expires_in":7200}
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:95" - __key_value_check - INFO - 测试实际结果：{'access_token': '39_Z6bH3BQAOYApDCEJePTwLdqZ5_dGQSchFlkzYA0WVz4OQw1yrdCFcTLzCiMKyV5DwSCFBORBwhqT5kROEzH_avZB41SqUraTwKbtz8Vo3dHXK4NhBKWwzHSax5yd0IDu48gIPzAKPsqnwE-LFLGbAIAAGB', 'expires_in': 7200}==测试期望结果:{"expires_in":7200}，检测通过
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 获取access_token接口 调用结束
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 创建标签接口开始调用
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key进行断言，检查是否满足期望结果：tag
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:63" - __key_check - INFO - 测试实际结果：{"errcode": 45157, "errmsg": "invalid tag name hint: [2kCFlz4ce-ZUg8gA] rid: 5fcce2cc-5a6af1b5-725a4d81"}==测试期望结果：tag，不一致，检测失败
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 创建标签接口 调用结束
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:34" - test_api_case - INFO - 测试用例编号：api_case_02执行结束
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:30" - test_api_case - INFO - 测试用例编号：api_case_03开始执行
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 获取access_token接口开始调用
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key进行断言，检查是否满足期望结果：access_token
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:67" - __key_check - INFO - 测试实际结果：{"access_token": "39_Z6bH3BQAOYApDCEJePTwLdqZ5_dGQSchFlkzYA0WVz4OQw1yrdCFcTLzCiMKyV5DwSCFBORBwhqT5kROEzH_avZB41SqUraTwKbtz8Vo3dHXK4NhBKWwzHSax5yd0IDu48gIPzAKPsqnwE-LEQAbAIAPBL", "expires_in": 7200}==测试期望结果：access_token，检测通过
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 获取access_token接口 调用结束
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 创建标签接口开始调用
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据none进行断言，检查是否满足期望结果：
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:49" - none_check - INFO - 断言类型为无或期望结果无数据，检测通过
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 创建标签接口 调用结束
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:123" - request - INFO - 删除标签接口开始调用
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:121" - run_check - INFO - 根据json_key_value进行断言，检查是否满足期望结果：{"errcode":0}
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\check_utils.py:95" - __key_value_check - INFO - 测试实际结果：{'errcode': 0, 'errmsg': 'ok'}==测试期望结果:{"errcode":0}，检测通过
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:131" - request - INFO - 删除标签接口 调用结束
+2020-12-06 21:57:40 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:34" - test_api_case - INFO - 测试用例编号：api_case_03执行结束
+

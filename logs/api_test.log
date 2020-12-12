@@ -1,0 +1,33 @@
+2020-12-05 22:07:45 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:10" - <module> - INFO - 蓝色
+2020-12-05 22:07:45 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:38" - <module> - INFO - 接口自动化测试开始执行
+2020-12-05 22:07:45 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:16" - load_testcase - INFO - 加载接口测试用例
+2020-12-05 22:07:45 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_01开始执行
+2020-12-05 22:07:45 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_02开始执行
+2020-12-05 22:07:45 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_03开始执行
+
+2020-12-05 22:12:51 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:10" - <module> - INFO - 蓝色
+2020-12-05 22:12:51 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:38" - <module> - INFO - 接口自动化测试开始执行
+2020-12-05 22:12:51 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:16" - load_testcase - INFO - 加载接口测试用例
+2020-12-05 22:12:51 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_01开始执行
+2020-12-05 22:12:51 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_02开始执行
+2020-12-05 22:12:51 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_03开始执行
+
+2020-12-05 22:14:09 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:10" - <module> - INFO - 蓝色
+2020-12-05 22:14:09 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:38" - <module> - INFO - 接口自动化测试开始执行
+2020-12-05 22:14:09 - p3p4_api_test - "D:/test_daima/kuangjia/test_runnel/run_all_case.py:16" - load_testcase - INFO - 加载接口测试用例
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_01开始执行
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:122" - request - INFO - 获取access_token接口开始调用
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_02开始执行
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:122" - request - INFO - 获取access_token接口开始调用
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:130" - request - INFO - 获取access_token接口 调用结束
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:122" - request - INFO - 创建标签接口开始调用
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:130" - request - INFO - 创建标签接口 调用结束
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:33" - test_api_case - INFO - 测试用例编号：api_case_02执行结束
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:29" - test_api_case - INFO - 测试用例编号：api_case_03开始执行
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:122" - request - INFO - 获取access_token接口开始调用
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:130" - request - INFO - 获取access_token接口 调用结束
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:122" - request - INFO - 创建标签接口开始调用
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:116" - __post - ERROR - 调用接口创建标签接口时发生异常，异常原因list index out of range
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\utils\requests_utils.py:130" - request - INFO - 创建标签接口 调用结束
+2020-12-05 22:14:09 - p3p4_api_test - "D:\test_daima\kuangjia\testcases\test_api_case.py:33" - test_api_case - INFO - 测试用例编号：api_case_03执行结束
+
